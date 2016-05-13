@@ -1,0 +1,8 @@
+# Ignore submission token
+token.mat
+
+# Ignore the submission function
+submit.m
+
+# Ignore the library for code submission
+lib/
