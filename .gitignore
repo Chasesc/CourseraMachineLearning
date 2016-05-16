@@ -1,3 +1,6 @@
+# Ignore autosave files
+*.asv
+
 # Ignore submission token
 token.mat
 
