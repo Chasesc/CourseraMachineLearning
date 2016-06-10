@@ -1,0 +1,23 @@
+Top recommendations for you:
+Predicting rating 8.4 for movie Star Wars (1977)
+Predicting rating 8.4 for movie Schindler's List (1993)
+Predicting rating 8.3 for movie Raiders of the Lost Ark (1981)
+Predicting rating 8.0 for movie Godfather, The (1972)
+Predicting rating 8.0 for movie Usual Suspects, The (1995)
+Predicting rating 8.0 for movie Empire Strikes Back, The (1980)
+Predicting rating 8.0 for movie Silence of the Lambs, The (1991)
+Predicting rating 7.9 for movie Close Shave, A (1995)
+Predicting rating 7.9 for movie Casablanca (1942)
+Predicting rating 7.8 for movie As Good As It Gets (1997)
+
+
+Original ratings provided:
+Rated 5 for Toy Story (1995)
+Rated 5 for Braveheart (1995)
+Rated 5 for Shawshank Redemption, The (1994)
+Rated 5 for Home Alone (1990)
+Rated 3 for Independence Day (ID4) (1996)
+Rated 4 for Good Will Hunting (1997)
+Rated 5 for Titanic (1997)
+Rated 5 for One Flew Over the Cuckoo's Nest (1975)
+Rated 2 for I Know What You Did Last Summer (1997)
